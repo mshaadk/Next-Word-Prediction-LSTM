@@ -33,7 +33,7 @@ Once the notebook is running, you can follow these steps to use the model:
 
 2. **Generating Predictions**:
 
-     - After training, you can use the model to generate the next word in a given sequence. Modify the seed_text variable in the notebook to test different input sequences.
+     - After training, you can use the model to generate the next word in a given sequence. Modify the `seed_text` variable in the notebook to test different input sequences.
 
 ## Model Details
 - **Architecture**: LSTM-based neural network
