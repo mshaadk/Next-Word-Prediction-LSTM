@@ -16,26 +16,26 @@ To get started, follow these steps:
 
 1. **Open the Project in Google Colab**:
 
-  - You can open the notebook directly in Google Colab by clicking here.
+     - You can open the notebook directly in Google Colab by clicking here.
     
 2. **Upload the Dataset**:
 
-  - Ensure that you upload the `sherlock-holm.es_stories_plain-text_advs.txt` dataset to the Colab environment. You can use the file upload feature in Colab or mount Google Drive to access the file.
+     - Ensure that you upload the `sherlock-holm.es_stories_plain-text_advs.txt` dataset to the Colab environment. You can use the file upload feature in Colab or mount Google Drive to access the file.
 
 3. **Run the Notebook**:
 
-  - Execute each cell in the notebook to follow the entire process from data preprocessing to training the model and generating predictions.
+     - Execute each cell in the notebook to follow the entire process from data preprocessing to training the model and generating predictions.
 
 ## Usage
 Once the notebook is running, you can follow these steps to use the model:
 
 1. **Training the Model**:
 
-  - The notebook includes code to load the dataset, preprocess it, build and train the LSTM model. Training may take a while depending on your computational resources.
+     - The notebook includes code to load the dataset, preprocess it, build and train the LSTM model. Training may take a while depending on your computational resources.
 
 2. **Generating Predictions**:
 
-  - After training, you can use the model to generate the next word in a given sequence. Modify the seed_text variable in the notebook to test different input sequences.
+     - After training, you can use the model to generate the next word in a given sequence. Modify the seed_text variable in the notebook to test different input sequences.
 
 ## Model Details
 - **Architecture**: LSTM-based neural network
