@@ -15,8 +15,6 @@ This project demonstrates how to build and train a next-word prediction model us
 To get started, follow these steps:
 
 1. **Open the Project in Google Colab**:
-
-     - You can open the notebook directly in Google Colab by clicking here.
     
 2. **Upload the Dataset**:
 
